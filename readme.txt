@@ -5,7 +5,7 @@ Tags: wp clean up,wp cleanup,clean,cleaner,cleanup,database,mysql,comments,posts
 License: GPLv2
 Requires at least: 2.7
 Tested up to: 3.9.1
-Stable tag: 1.2.3
+Stable tag: 1.2.4
 
 WP Clean Up can help us to clean up the wordpress database by removing "revision" "auto draft" and so on.
 
@@ -34,6 +34,10 @@ It is a effective tool to keep your database clean and surely save a lot of spac
 
 
 == Changelog ==
+
+= 1.2.4 =
+
+* protect the "draft" from delete them accidentally.
 
 = 1.2.3 =
 
